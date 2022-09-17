@@ -1,0 +1,13 @@
+{
+    "action": "task_ended",
+    "data": {
+        "name": "30secondMusic.mp3",
+        "elapsedTime": 0,
+        "errors": "None",
+        "dm_core_id": "MNDMCORE01",
+        "elapsed_time": 16.992754220962524,
+        "size": 2.117769,
+        "mimetype": "audio/mpeg"
+    },
+    "params": ""
+}
